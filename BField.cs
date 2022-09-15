@@ -4,6 +4,6 @@ public class BField : MonoBehaviour
 {
     private void Awake() 
     { 
-        fhgjkadsfgkjdasfg
+        fhgjkfgkjdasfg
     }
 }
