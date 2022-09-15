@@ -1,2 +1,2 @@
-# RPGChes
+# RPGChess
 ГОСТ 34
